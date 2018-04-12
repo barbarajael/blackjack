@@ -1,6 +1,4 @@
-# Blackjack bot
-
-***
+# Blackjack Bot
 
 Project for the course of **Artificial Intelligence** @ DETI-UA [2017].
 
